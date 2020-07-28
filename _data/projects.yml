@@ -3,14 +3,14 @@
 
 # LIC Website Clone
 - project: LIC Website Clone
-  role: Using .NET Framework, SQL Server, Bootstrap
+  role: .NET MVC Framework
   duration: May 2018, Tech Mahindra
   # url: "#"
-  description: Customers visit the site, view information and schemes offered by the company. The entire front-end is designed using HTML, CSS and Bootstrap. System has the facility to prescribe e-form with relevant details to the customer who wants to claim for reimburse. The database connection was established with SQL Server using Entity framework.
+  description: Customers visit the site, view information and schemes offered by the company and claim for insurance. The entire front-end is designed using HTML, CSS and Bootstrap. The database connection was established with SQL Server using Entity framework.
 
 # Designing a secure banking application
 - project: Designing a secure banking application
-  role: Java, JSP, Servlets, MySQL, HTML, CSS
+  role: Java, MySQL
   duration: Mar 2017, GNIT
   # url: "#"
   description: The Objective is to find which CA methodologies exist and are applicable for continuous cloud service auditing. In our proposed system, we verify the intactness of the data in cloud, on demand, without additional online burden by masking the coefficients using PRF (Pseudo Random Function).
