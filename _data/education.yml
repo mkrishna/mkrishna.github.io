@@ -1,13 +1,20 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Bachelor of Technology, Computer Science
+  uni: Gurunanak Institute of Technology
+  year: 2013 &mdash; 2017
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: Got 2nd place for presentation on Big Data/Hadoop at IGNITE 2K16 Fest.
+  # summary: If you had any meaningful roles at college, feel free to write about them here
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Intermediate, MPC
+  uni: Narayana Junior College
+  year: 2011 &mdash; 2013
+  awards:
+    - award: Created my first website using Wordpress - www.kyuoma.com
+  # summary: You can choose to have either a single or multiple awards
+  
+  - degree: SSC - State Board
+  uni: The Mothers High School
+  year: 2010 &mdash; 2011
+  awards:
+    - award: Got 1st place in Inter-school Math Olympiad
